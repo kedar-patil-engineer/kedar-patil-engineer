@@ -49,6 +49,23 @@ emphasis on evaluation, safety, and real-world reliability.
 
 ---
 
+## 🏆 Achievements & Recognition
+
+- **Co-Developer — MARI (Microbe Awareness & Risk Intervention) Platform**
+  · *Public Health Institute / Tracing Health*, 2021
+  Co-developed a HIPAA-compliant contact tracing and case management platform on Microsoft
+  Dynamics CRM during the COVID-19 pandemic. The system enabled contact tracing to begin
+  within one day of a positive test (down from 7 to 10 days) and was deployed across
+  counties in California, Oregon, and Washington, later extending to vaccine coordination.
+  Recognized by name in the Public Health Institute / Tracing Health white paper and
+  LinkedIn spotlight.
+
+- **MESA Judge** · *Mathematics Engineering Science Achievement (MESA)*, 2020
+  Served as a judge for the MESA program (CSU East Bay, Institute for STEM Education),
+  supporting educationally disadvantaged K-12 students competing in math and science.
+
+---
+
 ## 📚 Earlier Foundational Work (2017 to 2020)
 
 > These projects were completed during my undergraduate and graduate studies and
