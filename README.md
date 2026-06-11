@@ -10,7 +10,7 @@ emphasis on evaluation, safety, and real-world reliability.
 - 🛡️ Developing an **AI red team range** that scores LLMs against the OWASP LLM Top 10 (2025) and MITRE ATLAS
 - 🏥 Multi-agent **LLM copilot** for healthcare data quality (doctoral design science research)
 - 🧰 Grounded in deep learning (TensorFlow / Keras), NLP, SQL, and data engineering
-- 📫 Reach me: animalkayote@gmail.com
+- 📫 Reach me: kedarpatil299@gmail.com
 
 ---
 
