@@ -1,7 +1,8 @@
 # Hi, I'm Kedar Patil 👋
 
-AI / ML Engineer focused on **Generative AI, Agentic AI, and LLM systems**. MS in Business
-Analytics (California State University, East Bay), currently pursuing doctoral research on
+AI / ML Engineer focused on **Generative AI, Agentic AI, and LLM systems**. PhD candidate
+in Information Technology at the University of the Cumberlands, with an MS in Business
+Analytics (California State University, East Bay). My doctoral research focuses on
 AI-augmented data quality in healthcare. I build LLM-powered, multi-agent systems with an
 emphasis on evaluation, safety, and real-world reliability.
 
