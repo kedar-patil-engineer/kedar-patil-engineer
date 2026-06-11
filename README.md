@@ -1,16 +1,42 @@
 # Hi, I'm Kedar Patil 👋
 
-AI / ML Engineer focused on **Generative AI, Agentic AI, and LLM systems**. PhD candidate
-in Information Technology at the University of the Cumberlands, with an MS in Business
-Analytics (California State University, East Bay). My doctoral research focuses on
-AI-augmented data quality in healthcare. I build LLM-powered, multi-agent systems with an
-emphasis on evaluation, safety, and real-world reliability.
+**Information Protection Senior Advisor (Program Lead) at Cigna Evernorth** with 5+ years
+engineering enterprise security automation across large-scale, HIPAA-regulated healthcare
+infrastructure. I build **LLM-powered and agentic AI** systems for security operations,
+compliance, and data quality, bridging security architecture with production-grade Python.
+PhD candidate in Information Technology at the University of the Cumberlands (MS, Business
+Analytics, CSU East Bay); my doctoral research focuses on **AI-augmented data quality in
+healthcare**.
 
-- 🤖 Building **agentic AI** systems and **LLM** applications
-- 🛡️ Developing an **AI red team range** that scores LLMs against the OWASP LLM Top 10 (2025) and MITRE ATLAS
-- 🏥 Multi-agent **LLM copilot** for healthcare data quality (doctoral design science research)
-- 🧰 Grounded in deep learning (TensorFlow / Keras), NLP, SQL, and data engineering
+- 🛡️ Program Lead for security automation across 5+ control domains in HIPAA-regulated healthcare
+- 🤖 Engineering **agentic AI** and **LLM** workflows that cut manual security triage by ~40%
+- 🏥 Doctoral research: a multi-agent **LLM copilot** for healthcare data quality
+- 🐍 Production Python across Splunk, CrowdStrike, CyberArk, Okta, ServiceNow, SQL, and Pandas
 - 📫 Reach me: kedarpatil299@gmail.com
+
+---
+
+## 💼 Experience
+
+**Cigna Evernorth** — *Information Protection Senior Advisor* · 2021 to Present
+*Program Lead (2025 to Present) · Team Lead (2022 to 2025) · Senior Advisor (2021 to 2022)*
+Lead security automation and AI-augmented compliance programs across HIPAA-regulated
+healthcare infrastructure. Engineered Python automation integrating Splunk SPL, CrowdStrike
+telemetry, CyberArk, Okta, ServiceNow, and SQL Server pipelines; built LLM-based and agentic
+AI triage workflows (~40% less manual triage), automated IAM reconciliation (~40% lower access
+risk), and board-ready Tableau compliance dashboards. Lead 5+ control domains and mentor
+developers on secure, AI-augmented design.
+
+**Public Health Institute / Tracing Health** — *Data Operations Analyst & Data Analyst* · 2020 to 2021
+Built COVID-19 contact tracing and surveillance systems for 500+ contact tracers on Microsoft
+Dynamics 365 CRM, with Python fuzzy-matching record reconciliation, Power BI / Power Apps /
+Power Automate workflows, and R and Tableau reporting across California, Oregon, and Washington.
+Co-developed the MARI platform (see Achievements).
+
+**Contra Costa County** — *Business Analyst Intern* · 2019
+Automated search workflows (~75% faster), designed a SQL Server graph database modeling client
+tax hierarchies (industries, companies, franchises), and delivered Tableau and Oracle analytics
+for county operations.
 
 ---
 
@@ -120,6 +146,16 @@ emphasis on evaluation, safety, and real-world reliability.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Security & Automation**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=flat&logo=crowdstrike&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Microsoft Dynamics](https://img.shields.io/badge/Dynamics_365-002050?style=flat&logo=microsoft&logoColor=white)
 
 ### 📈 GitHub Stats
 
