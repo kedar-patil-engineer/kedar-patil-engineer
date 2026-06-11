@@ -26,6 +26,29 @@ emphasis on evaluation, safety, and real-world reliability.
 
 ---
 
+## 📄 Publications
+
+- **Zero-Trust Architecture in ETL Pipelines: Ensuring Data Security in Multi-Cloud Environments**
+  — *International Journal of Computer Engineering and Technology (IJCET)*, Vol. 16(1), pp. 1463–1485, 2025.
+  [DOI: 10.34218/IJCET_16_01_109](https://doi.org/10.34218/IJCET_16_01_109)
+  Proposes the Zero-Trust ETL Pipeline (ZTEP) framework: identity-centric authentication, fine-grained
+  RBAC/ABAC, end-to-end encryption, AI/ML anomaly detection, and blockchain-based immutable logging,
+  validated across AWS, Azure, and GCP.
+
+- **Algorithmic Decision-Making in HR: Navigating Fairness, Transparency, and Governance in the Age of AI**
+  — *International Journal of Computer Engineering and Technology (IJCET)*, Vol. 16(1), pp. 359–367, 2025.
+  [DOI: 10.34218/IJCET_16_01_033](https://doi.org/10.34218/IJCET_16_01_033)
+  Examines AI across HR functions (hiring, retention, performance), addressing algorithmic bias,
+  black-box opacity, and information governance aligned with GDPR and CCPA.
+
+- **Paradise Motorsports Racing Game using Unity 3D**
+  — *IJSRD - International Journal for Scientific Research & Development*, Vol. 5(2), 2017. ISSN 2321-0613.
+  *(with C. Raut, A. Singh, and Prof. P. K. Patil)*
+  Design and implementation of a single-player arcade racing game in Unity 3D and C# with AI opponents,
+  including an engine comparison against Unreal Engine 4 and Game Maker.
+
+---
+
 ## 📚 Earlier Foundational Work (2017 to 2020)
 
 > These projects were completed during my undergraduate and graduate studies and
