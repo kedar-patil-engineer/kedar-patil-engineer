@@ -22,7 +22,7 @@ and **AI / LLM security**.
 |---|---|---|
 | [Loan Payoff Prediction](https://github.com/kedar-patil-engineer/loan-payoff-prediction-neural-network) | Neural network predicting loan repayment vs default on ~396K Lending Club loans. **89% accuracy.** | TensorFlow / Keras |
 | [Breast Cancer Prediction](https://github.com/kedar-patil-engineer/breast-cancer-prediction-neural-network) | Classifier for malignant vs benign tumors on the UCI WDBC dataset. **99% accuracy.** | TensorFlow / Keras |
-| [Keras Housing Regression](https://github.com/kedar-patil-engineer/keras-housing-price-regression) | Regression network predicting King County house prices. **80% accuracy.** | TensorFlow / Keras |
+| [Keras Housing Regression](https://github.com/kedar-patil-engineer/keras-housing-price-regression) | Regression network predicting King County house prices. **Explains ~80% of price variance (R² ≈ 0.80).** | TensorFlow / Keras |
 
 ## 📊 Data Mining & Analytics
 
